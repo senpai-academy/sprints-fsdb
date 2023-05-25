@@ -14,55 +14,30 @@
   - [Interactive card details form](https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw)
 
 Día 1
-
-- Crear repositorio de Github.
-- Cada cambio realizado debe estar commiteado y subido a github.
 - Dividir el proyecto Testimonial grid section en pequeños problemas.
   - ¿En cuántas partes está dividida la página?
   - ¿Qué etiquetas HTML podría ser semánticamente correcta para cada sección?
+  - Comparar las estructuras y analizar, ¿he notado algún problema recurrente?
+  - Escribir la estructura HTML del proyecto Testimonial grid section
+  - A partir de aquí empezar a trabajar solo con este proyecto
+
 
 Día 2
-
-- Crear repositorio de Github.
-- Cada cambio realizado debe estar commiteado y subido a github.
-- Dividir el proyecto Interactive card details form en pequeños problemas.
-  - ¿En cuántas partes está dividida la página?
-  - ¿Qué etiquetas HTML podría ser semánticamente correcta para cada sección?
-
-Día 3
-
-- Comparar las estructuras y analizar, ¿he notado algún problema recurrente?
-
-Día 4
-
-- Escribir la estructura HTML del proyecto Testimonial grid section
-- A partir de aquí empezar a trabajar solo con este proyecto
-
-Día 5
-
 - Analizar, ¿qué diseño aparenta ser más sencillo?, ¿por qué?
-
-Día 6
-
 - Lectura recomenda, ¿qué es CSS y cómo se aplica a nuestra página?
 
-Día 7
-
+Día 3
 - Agregar clases y nombrar según una norma.
 - ¿Puedo dividir los cuadros con lo aprendido actualmente?
   - Si la respuesta es sí, ¿con qué?, ¿qué puedo hacer?
   - Si la respuesta es no, ¿qué puedo hacer con lo que tengo actualmente?
 
-Día 8
-
+Día 4
 - Cambiar los colores de fondo.
 - Aplicar los estilos a los cuadros.
-
-Día 9
-
 - Alineación de los cuadros.
 - Utilización de modelo de caja.
 
-Día 10
-
-- Analizar el problema planteado. ¿Qué controles aparecen en el diseño que debo tener en cuenta?
+Día 5
+- Crear repositorio de Github.
+- El proyecto realizado debe estar commiteado y subido a github.
