@@ -20,8 +20,6 @@
 
 Día 1
 
-- Crear repositorio de Github.
-- Cada cambio realizado debe estar commiteado y subido a github.
 - Dividir la página en pequeños problemas.
   - ¿En cuántas partes está dividida la página?
   - ¿Qué etiquetas HTML podría ser semánticamente correcta para cada sección?
@@ -59,8 +57,8 @@ Día 8
 
 Día 9
 
-- Finalizado del diseño.
-- Agregar media queries.
+- Crear repositorio de Github.
+- Cada cambio realizado debe estar commiteado y subido a github.
 
 Día 10
 
